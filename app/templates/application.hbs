@@ -1,0 +1,24 @@
+<h2 id="title">Welcome to Ember</h2>
+<h3>Link-to</h3>
+<div>
+	{{#link-to 'index'}}HOME{{/link-to}} | 
+	{{#link-to 'contact'}}CONTACT{{/link-to}}  | 
+	{{#link-to 'about'}}ABOUT{{/link-to}} 
+</div>
+<h3>href-to</h3>
+<div>
+	<a href="{{href-to 'index'}}">HOME</a>  | 
+	<a href="{{href-to 'contact'}}">CONTACT</a>  | 
+	<a href="{{href-to 'about'}}">ABOUT</a>
+</div>
+
+
+<h3>href-to-x</h3>
+	<a href="{{href-to-x 'index'}}">HOME</a>  | 
+	<a href="{{href-to-x 'contact'}}">CONTACT</a>  | 
+	<a href="{{href-to-x 'about'}}">ABOUT</a>
+<div>
+
+</div>
+
+{{outlet}}
