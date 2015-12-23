@@ -6,6 +6,12 @@ Basically this repo is a simple ember-cli app which has 3 pages:
 - about
 - contact
 
+The default port was changed from ```4200``` to ```3000``` so I can debug my original app and this "app" at the same time
+to compare the results and see where there are differences. Also this repo still uses ```exportApplicationGlobal```
+and reads settings/config from a global variable. This is due to the fact, that we are using ember-cli since more than
+one and a half year and this was common at the beginning. This repo should be as similar as possible to the
+production app so this is why I kept the globals also in this "app".
+
 Then there is the navigation once with embers ```link-to``` helper,
 once with ```ember-href-to``` and once with the [workaround][lnk1] which I posted when I opened the issue.
 But my workaround does not produce the same href as embers ```link-to```. When you hover the links
