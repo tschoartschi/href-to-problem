@@ -2,9 +2,9 @@
 This repo should help to resolve issue #19 from the ember-href-to repo.
  
 Basically this repo is a simple ember-cli app which has 3 pages:
-    - index aka. home
-    - about
-    - contact
+- index aka. home
+- about
+- contact
 
 Then there is the navigation once with embers ```link-to``` helper,
 once with ```ember-href-to``` and once with the [workaround][lnk1] which I posted when I opened the issue.
