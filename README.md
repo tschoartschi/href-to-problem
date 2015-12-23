@@ -1,5 +1,5 @@
 # href-to-problem
-This repo should help to resolve issue #19 from the ember-href-to repo.
+This repo should help to resolve [issue #19][lnk2] from [the ember-href-to][lnk3] repo.
  
 Basically this repo is a simple ember-cli app which has 3 pages:
 - index aka. home
@@ -26,3 +26,4 @@ Further information can be found in the [issues-thread][lnk2]
 [lnk0]: http://localhost:3000/app/
 [lnk1]: https://github.com/intercom/ember-href-to/issues/19#issue-100266546
 [lnk2]: https://github.com/intercom/ember-href-to/issues/19
+[lnk3]: https://github.com/intercom/ember-href-to
