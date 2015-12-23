@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c4e6612d-7ed3-4303-9f97-e26121e7062c" name="Roomle Webclient" url="http://localhost:4200">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d778a660-0428-4e23-a14b-fb8e04439e53" name="Hashlate" url="http://localhost:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9aa634c7-f838-4602-b36b-92f155f9171d" name="http://localhost:3000" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
