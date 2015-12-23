@@ -7,8 +7,8 @@ Basically this repo is a simple ember-cli app which has 3 pages:
 - contact
 
 The default port was changed from ```4200``` to ```3000``` so I can debug my original app and this "app" at the same time
-to compare the results and see where there are differences. Due to the bug we want to fix, the base url was changed from`
-```/``` to ```/app/``. So after you call ```ember serve``` the "app" will be available under [http://localhost:3000/app/][lnk0] 
+to compare the results and see where there are differences. Due to the bug we want to fix, the base url was changed from
+```/``` to ```/app/```. So after you call ```ember serve``` the "app" will be available under [http://localhost:3000/app/][lnk0] 
  
 Also this repo still uses ```exportApplicationGlobal```
 and reads settings/config from a global variable. This is due to the fact, that we are using ember-cli since more than
