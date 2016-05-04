@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="16">
-    <ignoreFiles list="*.hprof;*.mem;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;Roomle3DWebGLExport.data;Roomle3DWebGLExport.js;Roomle3DWebGLExport_fround.js;Roomle3dWebGLExport.data;Roomle3dWebGLExport.js;Roomle3dWebGLExport_fround.js;RoomleKernelJs.js;SCCS;__pycache__;_svn;rcs;roomle3d.data;roomle3d.js;roomle3d_fround.js;" />
+    <ignoreFiles list="*.hprof;*.mem;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;Roomle3DWebGLExport.data;Roomle3DWebGLExport.js;Roomle3DWebGLExport_fround.js;Roomle3dWebGLExport.data;Roomle3dWebGLExport.js;Roomle3dWebGLExport_fround.js;RoomleKernelJs.js;SCCS;__pycache__;_svn;fastboot-dist;rcs;roomle3d.data;roomle3d.js;roomle3d_fround.js;" />
     <extensionMap>
       <mapping ext="php" type="HTML" />
-      <mapping pattern="Y" type="PLAIN_TEXT" />
       <mapping pattern="_purchases" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
+      <mapping pattern="Y" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="tap" type="PLAIN_TEXT" />
       <mapping pattern="flipflap" type="LESS" />
     </extensionMap>
