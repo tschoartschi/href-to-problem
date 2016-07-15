@@ -9,6 +9,7 @@
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="tap" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="flipflap" type="LESS" />
     </extensionMap>
   </component>
