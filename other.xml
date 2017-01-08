@@ -48,7 +48,7 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.7.1" last-modified="1457342475000" />
+    <node-interpreter path="/usr/local/bin/node" version="6.9.1" last-modified="1480494958000" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
