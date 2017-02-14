@@ -10,6 +10,7 @@
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tap" type="PLAIN_TEXT" />
       <mapping ext="mtl" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
