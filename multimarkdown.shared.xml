@@ -1,11 +1,11 @@
 <application>
   <component name="ApplicationShared">
-    <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showPreviewTab="true" showModifiedHtmlTab="false" showUnmodifiedHtmlTab="false">
+    <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="NONE" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showPreviewTab="true" showModifiedHtmlTab="false" showUnmodifiedHtmlTab="false">
       <PanelProvider>
         <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.panel" providerName="JavaFX WebView" />
       </PanelProvider>
     </PreviewSettings>
-    <ParserSettings parsingTimeout="10000">
+    <ParserSettings parsingTimeout="2000">
       <PegdownExtensions>
         <option name="ABBREVIATIONS" value="false" />
         <option name="ANCHORLINKS" value="true" />
