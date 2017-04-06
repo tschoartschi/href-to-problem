@@ -10,10 +10,12 @@
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping ext="unityweb" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="tap" type="PLAIN_TEXT" />
       <mapping ext="mtl" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
