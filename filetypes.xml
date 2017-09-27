@@ -10,6 +10,7 @@
       <mapping pattern="config.js" type="PLAIN_TEXT" />
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping ext="unityweb" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
