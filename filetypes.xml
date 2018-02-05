@@ -9,6 +9,7 @@
       <mapping pattern="_purchases" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config.js" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
       <mapping ext="unityweb" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
