@@ -24,6 +24,7 @@
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="tap" type="PLAIN_TEXT" />
       <mapping ext="mtl" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="flipflap" type="LESS" />
     </extensionMap>
