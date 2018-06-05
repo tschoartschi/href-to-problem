@@ -1,4 +1,7 @@
 <code_scheme name="Roomle">
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -11,5 +14,8 @@
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="8" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   </codeStyleSettings>
 </code_scheme>
