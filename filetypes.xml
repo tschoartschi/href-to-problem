@@ -1,18 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.mem;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;PlannerKernelJs.js;RCS;Roomle3DWebGLExport.data;Roomle3DWebGLExport.js;Roomle3DWebGLExport_fround.js;Roomle3dWebGLExport.data;Roomle3dWebGLExport.js;Roomle3dWebGLExport_fround.js;RoomleKernelJs.js;SCCS;__pycache__;_svn;dist;fastboot-dist;node_modules;rcs;roomle3d.data;roomle3d.js;roomle3d_fround.js;tmp;" />
+    <ignoreFiles list="*.hprof;*.mem;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;PlannerKernelJs.js;RCS;Roomle3DWebGLExport.data;Roomle3DWebGLExport.js;Roomle3DWebGLExport_fround.js;Roomle3dWebGLExport.data;Roomle3dWebGLExport.js;Roomle3dWebGLExport_fround.js;RoomleKernelJs.js;SCCS;__pycache__;_svn;fastboot-dist;node_modules;rcs;roomle3d.data;roomle3d.js;roomle3d_fround.js;tmp;" />
     <extensionMap>
       <mapping ext="php" type="HTML" />
       <mapping pattern="Y" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore-template" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping pattern=".ember-cli" type="PLAIN_TEXT" />
       <mapping pattern="_purchases" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config.js" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".watchmanconfig" type="PLAIN_TEXT" />
-      <mapping pattern="gitignore-template" type="PLAIN_TEXT" />
+      <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
